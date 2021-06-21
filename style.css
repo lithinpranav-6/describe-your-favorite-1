@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background: linear-gradient(180deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    backgroung background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+h1{
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+p {
+    color: aliceblue;
+}
